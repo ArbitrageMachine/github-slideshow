@@ -3,6 +3,7 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 :bread: :cheese: :baguette_bread: :pizza: :pancakes:
+
 "The Bread comes first, then the cheese, then the bread..."
 
 
